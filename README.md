@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente eu estudo JavaScript, ECMAScript, e Python
 - 📫 Contate-me em dejpribeiro@gmail.com
-- 😄 Ele/dele
+
 
 <div align="center">
   <a href="https://github.com/yakisoba1997">
