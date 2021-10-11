@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🌱 Atualmente eu estudo JavaScript, ECMAScript, e Python
 - 📫 How to reach me: Contate-me em dejpribeiro@gmail.com
 - 😄 Pronouns: Ele/dele
