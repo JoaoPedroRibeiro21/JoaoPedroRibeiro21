@@ -3,8 +3,8 @@
 
 
 - 🌱 Atualmente eu estudo JavaScript, ECMAScript, e Python
-- 📫 How to reach me: Contate-me em dejpribeiro@gmail.com
-- 😄 Pronouns: Ele/dele
+- 📫 Contate-me em dejpribeiro@gmail.com
+- 😄 Ele/dele
 
 <div align="center">
   <a href="https://github.com/yakisoba1997">
