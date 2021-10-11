@@ -17,7 +17,7 @@
   <img align="center-top" alt="joao-bootstrap" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center-top" alt="joao-js" height="45" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center-top" alt="joao-Python" height="40" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  
+    
 </div>
   
   ##
