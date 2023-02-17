@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Atualmente eu estudo JavaScript, ECMAScript, e Python
-- 📫 Contate-me em dejpribeiro@gmail.com
+- Estudo análise e desenvolvimento de sistemas e análise de dados
+- Contate-me em dejpribeiro@gmail.com
 
 
 <div align="center">
