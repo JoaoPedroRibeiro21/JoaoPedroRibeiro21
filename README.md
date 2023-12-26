@@ -2,7 +2,7 @@
 
 
 
-- Estudante de análise e desenvolvimento de sistemas e análise de dados
+- Formado em análise e desenvolvimento de sistemas 
 - Entre em contato comigo em dejpribeiro@gmail.com
 
 
