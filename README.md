@@ -2,7 +2,7 @@
 
 
 
-- Formado em análise e desenvolvimento de sistemas 
+- Formando em Data Science no Descomplica 
 - Entre em contato comigo em dejpribeiro@gmail.com
 
 
