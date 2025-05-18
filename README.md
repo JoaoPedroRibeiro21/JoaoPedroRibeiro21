@@ -2,7 +2,6 @@
 
 
 
-- Aluno de Pós Graduação em Data Science no Descomplica
 - Formado em Análise e Desenvolvimento de Sistemas
 - Entre em contato comigo em dejpribeiro@gmail.com
 
