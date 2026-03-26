@@ -1,5 +1,3 @@
-# Olá! Sou o João Pedro Ribeiro 👋
-
 **Engenheiro de IA | DevOps | Analista de Infraestrutura**
 
 Sou um desenvolvedor apaixonado por Inteligência Artificial, Machine Learning e automação, morando em Limeira, SP. Sou formado em Análise e Desenvolvimento de Sistemas e possuo uma base sólida tanto no desenvolvimento de software quanto na sustentação de infraestruturas escaláveis. 
@@ -22,10 +20,10 @@ Atualmente, atuo na VR Software e também trabalho como freelancer criando solu�
 
 * **Análise e Desenvolvimento de Sistemas** - UNIP (Universidade Paulista)
 * **Foundation: Introduction to Agent Observability & Evaluations** - LangChain Academy (Foco em LangSmith e observabilidade de agentes de IA).
-* * **IBM** - Machine Learning with Python.
-* * **IBM** - Deep Learning with Keras and TensorFlow.
-* * **IBM** - Deep Learning with PyTorch.
-* * **Red Hat** - Desenvolvimento nativo em nuvem com OpenShift e Kubernetes.
+* **IBM** - Machine Learning with Python.
+* **IBM** - Deep Learning with Keras and TensorFlow.
+* **IBM** - Deep Learning with PyTorch.
+* **Red Hat** - Desenvolvimento nativo em nuvem com OpenShift e Kubernetes.
 
 ### 📫 Como me encontrar
 
